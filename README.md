@@ -1,2 +1,0 @@
-# daizpaint
-free site
